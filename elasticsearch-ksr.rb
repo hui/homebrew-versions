@@ -5,7 +5,7 @@ require 'formula'
 class ElasticsearchKsr < Formula
   homepage 'http://www.elasticsearch.org'
   url 'https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.5.tar.gz'
-  sha1 '8027a4ae1bef6876c7651b1590607c8ff6108820'
+  sha256 'f14ff217039b5c398a9256b68f46a90093e0a1e54e89f94ee6a2ee7de557bd6d'
 
   head do
     url 'https://github.com/elasticsearch/elasticsearch.git'

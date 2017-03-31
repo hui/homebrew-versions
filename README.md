@@ -6,7 +6,7 @@ Formulas are reproduced from https://github.com/mxcl/homebrew.
 Tap the repository (the "homebrew-" prefix is magically implied):
 
 ```
-brew tap kickstarter/versions
+brew tap hui/versions
 ```
 
 To install a formula:
@@ -18,5 +18,5 @@ brew install <formula>
 If there are conflicts, force install using:
 
 ```
-brew install kickstarter/versions/<formula>
+brew install hui/versions/<formula>
 ```
